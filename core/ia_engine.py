@@ -4,10 +4,11 @@ from google import genai
 
 # Cargamos la llave secreta
 load_dotenv()
-api_key = os.getenv("GEMINI_API_KEY")
+import streamlit as st
+clave_api = st.secrets["GEMINI_API_KEY"]
 
 # Inicializamos el cliente de IA
-client = genai.Client(api_key=api_key)
+client = genai.Client(api_key=clave_api)
 
 def generar_sesion_cneb(grado, curso, tema):
     """
