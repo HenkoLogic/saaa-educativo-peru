@@ -1,0 +1,29 @@
+{
+  "Matemática": [
+    "Sistemas de ecuaciones lineales",
+    "Ecuaciones de segundo grado",
+    "Funciones cuadráticas",
+    "Inecuaciones lineales",
+    "Geometría del espacio",
+    "Trigonometría básica",
+    "Estadística y probabilidades"
+  ],
+  "Comunicación": [
+    "El ensayo literario y su estructura",
+    "Técnicas de argumentación oral",
+    "Literatura peruana del siglo XX",
+    "Coherencia y cohesión textual",
+    "Comprensión de textos científicos",
+    "El debate académico y sus reglas",
+    "Producción de podcasts escolares"
+  ],
+  "Ciencia y Tecnología": [
+    "Estructura del átomo y modelos atómicos",
+    "La tabla periódica y enlaces químicos",
+    "Funciones vitales de los seres vivos",
+    "Ecosistemas y biodiversidad del Perú",
+    "Contaminación ambiental en las regiones",
+    "Fuentes de energía renovable",
+    "El método científico aplicado en aula"
+  ]
+}
